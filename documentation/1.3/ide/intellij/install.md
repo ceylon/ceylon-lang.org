@@ -26,8 +26,9 @@ based on Java 7 or Java 8. Projects are not compatible with Java 6 or earlier.
 Here's what you need to do to install Ceylon IDE:
 
 1. Start IntelliJ or Android Studio.
-2. Go to `Preferences > Plugins > Browse repositories...`.
-3. Type `Ceylon IDE` in the search box and click Install.<br/>
+2. If you already have any opened project, go to `File > Settings (on Mac, Preferences) > Plugins` in the main menu.<br/>
+   If you have just started, use Configure > Plugins menu at the startup window.
+3. Click `Browse repositories...` button, then type `Ceylon IDE` in the search box and click Install.<br/>
    <img src="/images/screenshots/intellij/installation.png" alt="Plugin repository" width="80%" height="auto"/>
 4. After the plugin is downloaded, restart the IDE when prompted.
 
